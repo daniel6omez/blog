@@ -1,6 +1,6 @@
 ## Welcome to my personal blog
 
-This is a space to write about what I really like in my life:
+This is a space to write about what I really like in my professional life:
 
 - Business.
 - Entrepreneurship.
