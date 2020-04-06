@@ -2,10 +2,12 @@
 
 This is a space to write about what I really like in my life:
 
-Business
-Entrepreneurship
-Architecture
-Programming
+- Business.
+- Entrepreneurship.
+- Project management.
+- Architecture.
+- Programming.
+- New technologies.
 
 ### These are some ideas for my next blogs
 
